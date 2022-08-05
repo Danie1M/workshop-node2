@@ -1,0 +1,1 @@
+Practicas, extracción
