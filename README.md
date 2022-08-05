@@ -1,1 +1,2 @@
-Practicas, extracción
+Practicas, extracción 
+pruebas de sincronizacion 
