@@ -1,0 +1,29 @@
+{
+  "name": "workshop-node2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run build && node src/index.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danie1M/workshop-node2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danie1M/workshop-node2/issues"
+  },
+  "homepage": "https://github.com/Danie1M/workshop-node2#readme",
+  "dependencies": {
+    "@types/puppeteer": "^5.4.6",
+    "puppeteer": "^16.0.0",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.3"
+  }
+}
